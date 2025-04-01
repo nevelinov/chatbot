@@ -28,7 +28,7 @@ python main.py
 - use "exit" to stop the chatbot
 - use "debug" to see messages in the chatbot
 
-> **_NOTE:_** In it's current version the chatbot doesn't persist chats and all messages in a program run are treated to be part of the same chat. It's better to rerun the chatbot when a new conversation is needed.
+> **_NOTE:_** In its current version the chatbot doesn't persist chats and all messages in a program run are treated to be part of the same chat. It's better to rerun the chatbot when a new conversation is needed.
 
 
 
