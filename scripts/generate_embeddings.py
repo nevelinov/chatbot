@@ -6,7 +6,7 @@ import uuid
 
 # Hardcoded constants
 EMBEDDING_MODEL_NAME = "nomic-embed-text"  # Replace with the actual Ollama model name
-PINECONE_API_KEY = "pcsk_RpwkS_16esUpqMivoyLMTeBiuDtWt7M99zDGjuESY2iM2MuYGvFdwX51VTGLCe5C6gRmr"  # Replace with your Pinecone API key
+PINECONE_API_KEY = "pcsk_..."  # Replace with your Pinecone API key
 PINECONE_INDEX_NAME = "blazor-docs"  # Replace with your Pinecone index name
 PINECONE_NAMESPACE = "test1"  # Replace with the namespace you want to use
 
